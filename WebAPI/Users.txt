@@ -1,0 +1,2 @@
+{"id":0,"firstName":"Chani","lastName":"Birenboim","email":"cb@gmail.com","password":"8893"}
+{"id":2,"firstName":"Sara","lastName":"lavi","email":"sl@gmail.com","password":"9047"}
