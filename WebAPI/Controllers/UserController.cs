@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Runtime.Intrinsics.Arm;
+//fix: Removed "using System.Runtime.Intrinsics.Arm;" - it was added by mistake and is not used
 using System.Text.Json;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -8,12 +8,16 @@ namespace WebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class User : ControllerBase
+    //fix: A controller class name ends with Controller (the file is already called UserController.cs).
+    //The route stays api/User
+    public class UserController : ControllerBase
     {
-        static string filePath = "Users.txt";
+        //fix: The path never changes, so it can be readonly
+        static readonly string filePath = "Users.txt";
 
         // GET: api/<user>
         [HttpGet]
+        //This is still the template code. A GET on api/User is expected to return the users from the file
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
@@ -21,6 +25,7 @@ namespace WebAPI.Controllers
 
         // GET api/<user>/5
         [HttpGet("{id}")]
+        //Why isn't it implemented? It should read the file and return the user with this id (or NotFound / NoContent)
         public string Get(int id)
         {
             return "value";
@@ -46,6 +51,7 @@ namespace WebAPI.Controllers
                 string? currentUserInFile;
                 while ((currentUserInFile = reader.ReadLine()) != null)
                 {
+                    //A clearer name than user_2 would help, for example userInFile
                     Userreg user_2 = JsonSerializer.Deserialize<Userreg>(currentUserInFile);
                     if (user.l_email == user_2.email && user.l_password == user_2.password)
                         return Ok(user_2);
@@ -67,10 +73,16 @@ namespace WebAPI.Controllers
                     Userreg user =
                     JsonSerializer.Deserialize<Userreg>(currentUserInFile);
                     if (user.id == id)
+                    {
                         textToReplace = currentUserInFile;
+                        //fix: Found- break
+                        break;
+                    }
                 }
             }
             if(textToReplace != string.Empty){
+                //fix: Keep the id, otherwise the updated user is saved without it
+                user_1.id = id;
                 string text = System.IO.File.ReadAllText(filePath);
                 text = text.Replace(textToReplace,
                 JsonSerializer.Serialize(user_1));

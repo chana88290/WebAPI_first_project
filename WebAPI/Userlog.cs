@@ -2,6 +2,8 @@
 
 namespace WebAPI
 {
+    //A full name is clearer than an abbreviation (for example LoginUser).
+    //In C#, public properties are written in PascalCase without prefixes (Email, Password)
     public class Userlog
     {
         [EmailAddress]
