@@ -17,7 +17,6 @@ namespace WebAPI.Controllers
 
         // GET: api/<user>
         [HttpGet]
-        //This is still the template code. A GET on api/User is expected to return the users from the file
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
