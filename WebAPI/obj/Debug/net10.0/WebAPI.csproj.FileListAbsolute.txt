@@ -17,7 +17,6 @@ M:\API\WebAPI\WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\scopedcss\bundle\WebAPI.styles.css
-M:\API\WebAPI\WebAPI\obj\Debug\net10.0\compressed\uoj4une1ca-{0}-k4vhu3tk28-k4vhu3tk28.gz
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\compressed\vw79ac2fvp-{0}-aklhvjxgff-aklhvjxgff.gz
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\compressed\1dw5zyqj0g-{0}-vlqh7m4m42-vlqh7m4m42.gz
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\compressed\uss8hjddgk-{0}-menz4wossw-menz4wossw.gz
@@ -32,3 +31,14 @@ M:\API\WebAPI\WebAPI\obj\Debug\net10.0\refint\WebAPI.dll
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.pdb
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.genruntimeconfig.cache
 M:\API\WebAPI\WebAPI\obj\Debug\net10.0\ref\WebAPI.dll
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\zxcvbn-core.dll
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\Entities.dll
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\Repositories.dll
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\Service.dll
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\Entities.pdb
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\Service.pdb
+M:\API\WebAPI\WebAPI\bin\Debug\net10.0\Repositories.pdb
+M:\API\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.AssemblyReference.cache
+M:\API\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.sourcelink.json
+M:\API\WebAPI\WebAPI\obj\Debug\net10.0\compressed\uoj4une1ca-{0}-0x8eraq5ep-0x8eraq5ep.gz
+M:\API\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.Up2Date

@@ -1,0 +1,12 @@
+M:\API\WebAPI\Entities\bin\Debug\net10.0\Entities.deps.json
+M:\API\WebAPI\Entities\bin\Debug\net10.0\Entities.dll
+M:\API\WebAPI\Entities\bin\Debug\net10.0\Entities.pdb
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.dll
+M:\API\WebAPI\Entities\obj\Debug\net10.0\refint\Entities.dll
+M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.pdb
+M:\API\WebAPI\Entities\obj\Debug\net10.0\ref\Entities.dll
