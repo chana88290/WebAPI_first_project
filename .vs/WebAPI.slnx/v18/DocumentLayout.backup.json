@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "M:\\API\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\passwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\userreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3969DB0-5A84-4A9E-B24D-6A7F29C6A68D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|m:\\api\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,37 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Users.txt",
-              "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Users.txt",
-              "RelativeDocumentMoniker": "WebAPI\\Users.txt",
-              "ToolTip": "M:\\API\\WebAPI\\WebAPI\\Users.txt",
-              "RelativeToolTip": "WebAPI\\Users.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-11-09T13:14:28.815Z",
+              "DocumentIndex": 0,
+              "Title": "PasswordsController.cs",
+              "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Controllers\\PasswordsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PasswordsController.cs",
+              "ToolTip": "M:\\API\\WebAPI\\WebAPI\\Controllers\\PasswordsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PasswordsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T13:36:09.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "home.html",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\wwwroot\\home.html",
               "RelativeDocumentMoniker": "WebAPI\\wwwroot\\home.html",
               "ToolTip": "M:\\API\\WebAPI\\WebAPI\\wwwroot\\home.html",
               "RelativeToolTip": "WebAPI\\wwwroot\\home.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-09T12:34:26.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\UsersController.cs",
@@ -94,19 +98,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "M:\\API\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T12:33:14.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.txt",
+              "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Users.txt",
+              "RelativeDocumentMoniker": "WebAPI\\Users.txt",
+              "ToolTip": "M:\\API\\WebAPI\\WebAPI\\Users.txt",
+              "RelativeToolTip": "WebAPI\\Users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-09T13:14:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "home.js",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\wwwroot\\home.js",
               "RelativeDocumentMoniker": "WebAPI\\wwwroot\\home.js",
               "ToolTip": "M:\\API\\WebAPI\\WebAPI\\wwwroot\\home.js",
               "RelativeToolTip": "WebAPI\\wwwroot\\home.js",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-11-09T12:40:15.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Userreg.cs",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Userreg.cs",
               "RelativeDocumentMoniker": "WebAPI\\Userreg.cs",
@@ -119,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "update.js",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\wwwroot\\update.js",
               "RelativeDocumentMoniker": "WebAPI\\wwwroot\\update.js",
@@ -132,20 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebAPI",
-              "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\WebAPI.csproj",
-              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
-              "ToolTip": "M:\\API\\WebAPI\\WebAPI\\WebAPI.csproj",
-              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-09T12:33:14.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "update.html",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\wwwroot\\update.html",
               "RelativeDocumentMoniker": "WebAPI\\wwwroot\\update.html",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Userlog.cs",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Userlog.cs",
               "RelativeDocumentMoniker": "WebAPI\\Userlog.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "M:\\API\\WebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
