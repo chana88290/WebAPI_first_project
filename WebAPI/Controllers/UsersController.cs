@@ -10,7 +10,12 @@ namespace WebAPI.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        UsersService usersService = new UsersService();
+        private readonly IUsersService _usersService;
+
+        public UsersController(IUsersService UsersService)
+        {
+            _usersService = UsersService;
+        }
 
         // GET: api/<UsersController>
         [HttpGet]
@@ -30,14 +35,14 @@ namespace WebAPI.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Userreg user)
         {
-            user = usersService.AddUser(user);
+            user = _usersService.AddUser(user);
             return CreatedAtAction(nameof(Get), new { id = user.id }, user);
         }
 
         [HttpPost("login")]
         public IActionResult Post([FromBody] Userlog user)
         {
-            var user_1 = usersService.GetUser(user);
+            var user_1 = _usersService.GetUser(user);
             if (user == null)
                 return NotFound();
             return Ok(user);
@@ -48,7 +53,7 @@ namespace WebAPI.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Userreg user_1)
         {
-            usersService.UpdateUser(id, user_1);
+            _usersService.UpdateUser(id, user_1);
         }
 
         // DELETE api/<UsersController>/5

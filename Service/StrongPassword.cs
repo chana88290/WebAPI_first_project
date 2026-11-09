@@ -5,7 +5,7 @@ using Zxcvbn;
 
 namespace Service
 {
-    public class StrongPassword
+    public class StrongPassword : IStrongPassword
     {
         public int GetStrongPassword(string password)
         {

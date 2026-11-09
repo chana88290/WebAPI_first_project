@@ -3,7 +3,7 @@ using WebAPI;
 
 namespace Repositories
 {
-    public class UserRepository
+    public class UserRepository : IUserRepository
     {
         string filePath = "../Repositories/Users.txt";
 
