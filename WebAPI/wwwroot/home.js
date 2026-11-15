@@ -12,6 +12,7 @@ const register = async () => {
     }
 
     try {
+        //The route is api/Users (the controller is UsersController): does this URL match it? Change it, and the other fetch URLs, to match
         const response = await fetch('api/User', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },

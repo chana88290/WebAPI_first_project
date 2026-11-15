@@ -23,6 +23,7 @@ namespace Repositories
                 string? currentUserInFile;
                 while ((currentUserInFile = reader.ReadLine()) != null)
                 {
+                    //In C#, locals are camelCase, without underscores: for example userFromFile
                     Userreg user_2 = JsonSerializer.Deserialize<Userreg>(currentUserInFile);
                     if (user.l_email == user_2.email && user.l_password == user_2.password)
                         return user_2;

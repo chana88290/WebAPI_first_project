@@ -4,7 +4,8 @@ namespace Service
 {
     public interface IUsersService
     {
-        Userreg AddUser(Userreg user)
+        //fix: added the missing semicolon after AddUser, the interface did not compile
+        Userreg AddUser(Userreg user);
         Userreg GetUser(Userlog user);
         void UpdateUser(int id, Userreg user_1);
     }

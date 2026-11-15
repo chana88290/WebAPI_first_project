@@ -2,6 +2,7 @@
 {
     public interface IStrongPassword
     {
-        int GetStrongPassword(string password)
+        //fix: added the missing semicolon, the interface did not compile
+        int GetStrongPassword(string password);
     }
 }

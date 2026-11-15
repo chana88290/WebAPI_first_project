@@ -12,6 +12,7 @@ namespace WebAPI.Controllers
     {
         private readonly IUsersService _usersService;
 
+        //In C#, parameters are camelCase: usersService
         public UsersController(IUsersService UsersService)
         {
             _usersService = UsersService;
@@ -42,6 +43,7 @@ namespace WebAPI.Controllers
         [HttpPost("login")]
         public IActionResult Post([FromBody] Userlog user)
         {
+            //Why does the null check test user and not user_1, the result of GetUser? What should login return when no user matches?
             var user_1 = _usersService.GetUser(user);
             if (user == null)
                 return NotFound();
@@ -51,6 +53,7 @@ namespace WebAPI.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
         public void Put(int id, [FromBody] Userreg user_1)
         {
             _usersService.UpdateUser(id, user_1);
