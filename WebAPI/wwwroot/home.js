@@ -12,6 +12,7 @@ const register = async () => {
     }
 
     try {
+        //The route is api/Users (the controller is UsersController): change this URL to 'api/Users'
         const response = await fetch('api/User', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -35,6 +36,7 @@ const login = async () => {
     }
 
     try {
+        //This URL doesn't match the API route: change it to 'api/Users/login'
         const response = await fetch('api/User/login', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },

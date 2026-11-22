@@ -34,6 +34,7 @@ const update = async () => {
     }
 
     try {
+        //This URL doesn't match the API route: change api/User to api/Users here
         const response = await fetch(`api/User/${user.id}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
