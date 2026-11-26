@@ -1,7 +1,7 @@
-M:\API\WebAPI\WebAPI\wwwroot\update.html
-M:\API\WebAPI\WebAPI\wwwroot\home.html
-M:\API\WebAPI\WebAPI\wwwroot\update.js
-M:\API\WebAPI\WebAPI\wwwroot\home.js
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\update.html
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\home.html
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\update.js
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\home.js
 wwwroot\home.html
 wwwroot\home.js
 wwwroot\update.html

@@ -2,6 +2,6 @@
 {
     public interface IStrongPassword
     {
-        int GetStrongPassword(string password)
+        int GetStrongPassword(string password);
     }
 }

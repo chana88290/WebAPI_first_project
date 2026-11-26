@@ -10,3 +10,28 @@ M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.dll
 M:\API\WebAPI\Entities\obj\Debug\net10.0\refint\Entities.dll
 M:\API\WebAPI\Entities\obj\Debug\net10.0\Entities.pdb
 M:\API\WebAPI\Entities\obj\Debug\net10.0\ref\Entities.dll
+E:\מסלול יד\API\API\WebAPI\Entities\bin\Debug\net10.0\Entities.deps.json
+E:\מסלול יד\API\API\WebAPI\Entities\bin\Debug\net10.0\Entities.dll
+E:\מסלול יד\API\API\WebAPI\Entities\bin\Debug\net10.0\Entities.pdb
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.dll
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\refint\Entities.dll
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.pdb
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\ref\Entities.dll
+E:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.csproj.Up2Date
+F:\מסלול יד\API\API\WebAPI\Entities\bin\Debug\net10.0\Entities.deps.json
+F:\מסלול יד\API\API\WebAPI\Entities\bin\Debug\net10.0\Entities.dll
+F:\מסלול יד\API\API\WebAPI\Entities\bin\Debug\net10.0\Entities.pdb
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.dll
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\refint\Entities.dll
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\Entities.pdb
+F:\מסלול יד\API\API\WebAPI\Entities\obj\Debug\net10.0\ref\Entities.dll

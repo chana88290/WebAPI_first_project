@@ -12,7 +12,7 @@ const register = async () => {
     }
 
     try {
-        const response = await fetch('api/User', {
+        const response = await fetch('api/Users', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
@@ -20,8 +20,10 @@ const register = async () => {
 
         if (response.ok)
             alert("User succsesfuly added")
-        else
-            throw new ("Error, try again")
+        else {
+            const userdata = await response.json()
+            throw new Error(userdata)
+        }
     }
     catch (e) {
         alert(e.message)
@@ -35,7 +37,7 @@ const login = async () => {
     }
 
     try {
-        const response = await fetch('api/User/login', {
+        const response = await fetch('api/Users/login', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(postData)

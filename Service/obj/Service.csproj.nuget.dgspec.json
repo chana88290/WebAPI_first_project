@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "M:\\API\\WebAPI\\Service\\Service.csproj": {}
+    "C:\\Users\\user1\\Desktop\\WebAPI\\Service\\Service.csproj": {}
   },
   "projects": {
-    "M:\\API\\WebAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API\\WebAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\API\\WebAPI\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\8893\\.nuget\\packages\\",
-        "outputPath": "M:\\API\\WebAPI\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\8893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -346,20 +345,20 @@
         }
       }
     },
-    "M:\\API\\WebAPI\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\user1\\Desktop\\WebAPI\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API\\WebAPI\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\WebAPI\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "M:\\API\\WebAPI\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\8893\\.nuget\\packages\\",
-        "outputPath": "M:\\API\\WebAPI\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\8893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -368,7 +367,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -376,8 +374,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "M:\\API\\WebAPI\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\API\\WebAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -392,7 +390,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -414,7 +412,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -692,20 +690,20 @@
         }
       }
     },
-    "M:\\API\\WebAPI\\Service\\Service.csproj": {
+    "C:\\Users\\user1\\Desktop\\WebAPI\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\API\\WebAPI\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\WebAPI\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "M:\\API\\WebAPI\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\8893\\.nuget\\packages\\",
-        "outputPath": "M:\\API\\WebAPI\\Service\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\8893\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -714,7 +712,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -722,11 +719,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "M:\\API\\WebAPI\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\API\\WebAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Entities\\Entities.csproj"
               },
-              "M:\\API\\WebAPI\\Repositories\\Repositories.csproj": {
-                "projectPath": "M:\\API\\WebAPI\\Repositories\\Repositories.csproj"
+              "C:\\Users\\user1\\Desktop\\WebAPI\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\WebAPI\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -741,7 +738,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -769,7 +766,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

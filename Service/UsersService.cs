@@ -13,19 +13,24 @@ namespace Service
             _userRepository = repository;
         }
 
-        public Userreg AddUser(Userreg user)
+        public async Task<Userreg> GetAsync(int id)
         {
-            return _userRepository.AddUser(user);
+            return await _userRepository.GetAsync(id);
         }
 
-        public Userreg GetUser(Userlog user)
+        public async Task<Userreg> PostAsync(Userreg user)
         {
-            return _userRepository.GetUser(user);
+            return await _userRepository.PostAsync(user);
         }
 
-        public void UpdateUser(int id, Userreg user_1)
+        public async Task<Userreg> PostLoginAsync(Userlog user)
         {
-            _userRepository.UpdateUser(id, user_1);
+            return await _userRepository.PostLoginAsync(user);
+        }
+
+        public async Task PutAsync(int id, Userreg user_1)
+        {
+            await _userRepository.PutAsync(id, user_1);
         }
     }
 }

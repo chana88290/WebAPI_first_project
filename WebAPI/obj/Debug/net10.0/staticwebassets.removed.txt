@@ -1,0 +1,4 @@
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\update.html
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\home.html
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\update.js
+F:\מסלול יד\API\API\WebAPI\WebAPI\wwwroot\home.js

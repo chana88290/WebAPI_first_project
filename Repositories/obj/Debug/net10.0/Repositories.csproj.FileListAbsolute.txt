@@ -14,3 +14,35 @@ M:\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.dll
 M:\API\WebAPI\Repositories\obj\Debug\net10.0\refint\Repositories.dll
 M:\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.pdb
 M:\API\WebAPI\Repositories\obj\Debug\net10.0\ref\Repositories.dll
+E:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Repositories.deps.json
+E:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Repositories.dll
+E:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Repositories.pdb
+E:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Entities.dll
+E:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Entities.pdb
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.csproj.AssemblyReference.cache
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.sourcelink.json
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Reposito.787EC4B2.Up2Date
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.dll
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\refint\Repositories.dll
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.pdb
+E:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\ref\Repositories.dll
+F:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Repositories.deps.json
+F:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Repositories.dll
+F:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Repositories.pdb
+F:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Entities.dll
+F:\מסלול יד\API\API\WebAPI\Repositories\bin\Debug\net10.0\Entities.pdb
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.csproj.AssemblyReference.cache
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.sourcelink.json
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Reposito.787EC4B2.Up2Date
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.dll
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\refint\Repositories.dll
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\Repositories.pdb
+F:\מסלול יד\API\API\WebAPI\Repositories\obj\Debug\net10.0\ref\Repositories.dll

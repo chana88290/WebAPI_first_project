@@ -1,12 +1,4 @@
-﻿const dataUser = sessionStorage.getItem("dataUser")
-
-const user = {
-    id: JSON.parse(dataUser).id,
-    email: JSON.parse(dataUser).email,
-    firstName: JSON.parse(dataUser).firstName,
-    lastName: JSON.parse(dataUser).lastName,
-    password: JSON.parse(dataUser).password
-}
+﻿const user = JSON.parse(sessionStorage.getItem("dataUser"))
 
 const title = document.querySelector('.title')
 title.textContent += ' ' + user.firstName + '!'
@@ -26,7 +18,9 @@ const showupdate = () => {
 }
 
 const update = async () => {
+    
     const data = {
+        id: user.id,
         email: document.querySelector(`.email input`).value,
         firstName: document.querySelector(`.firstname input`).value,
         lastName: document.querySelector(`.lastname input`).value,
@@ -34,7 +28,7 @@ const update = async () => {
     }
 
     try {
-        const response = await fetch(`api/User/${user.id}`, {
+        const response = await fetch(`api/Users/${user.id}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
@@ -44,7 +38,8 @@ const update = async () => {
             title.textContent = 'hello ' + data.firstName + '!'
         }
         else {
-            throw new ("Error, try again")
+            const userdata = await response.json()
+            throw new Error(userdata)
         }
     }
     catch (e) {
